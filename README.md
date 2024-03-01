@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 I'm Minae. 
-- 🔭 I’m currently working on: Improving software documentation sites.
-- 🌱 I’m currently learning: All about OpenAPI and the tools in its ecosystem.
+- 🔭 I’m currently working on: Improving software & developer documentation sites.
+- 🌱 I’m currently learning: docs-as-code tools, SSGs, documentation best practices, OpenAPI
 - ⚡ Fun fact: Once upon a time, I apprenticed as a hand poke tattoo artist in Bangkok, Thailand. Ask me for more fun facts!
